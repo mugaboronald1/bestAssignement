@@ -25,9 +25,9 @@ Logging levels are used to categorize the importance or severity of the log mess
 ## Common logging levels include:
 -----------------------------------------
 
-TRACE: Very detailed information, typically of interest only when diagnosing problems.
-DEBUG: Detailed information on the flow through the system.
-INFO: Informational messages that highlight the progress of the application.
-WARN: Potentially harmful situations of interest but not yet an error.
-ERROR: Error events that might still allow the application to continue running.
-FATAL: Very severe error events that will lead the application to abort.
+### TRACE: Very detailed information, typically of interest only when diagnosing problems.
+### DEBUG: Detailed information on the flow through the system.
+### INFO: Informational messages that highlight the progress of the application.
+### WARN: Potentially harmful situations of interest but not yet an error.
+### ERROR: Error events that might still allow the application to continue running.
+### FATAL: Very severe error events that will lead the application to abort.
