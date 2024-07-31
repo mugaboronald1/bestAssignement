@@ -1,12 +1,12 @@
-# bestAssignement
+# Assignement
 
-## What is Logging?
+# What is Logging?
 Logging is the process of recording information about the operation of a system.
 Logs can provide insights into the application’s behavior, including errors, warnings, and informational events. 
 They help developers monitor, troubleshoot, and understand the performance and issues within an application.
 
 
-## Why Logging is Important
+# Why Logging is Important
 # Logging is crucial because it:
 
 Helps in debugging and identifying issues in the application.
@@ -14,7 +14,7 @@ Provides a historical record of application activities.
 Aids in monitoring the health and performance of the application.
 Assists in security by tracking access and changes to the system.
 
-##  Understanding Logging Levels
+#  Understanding Logging Levels
 Logging levels are used to categorize the importance or severity of the log messages. 
 
 # Common logging levels include:
